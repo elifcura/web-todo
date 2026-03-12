@@ -47,7 +47,7 @@ Ayrıca görevler **tarayıcıda saklanır (LocalStorage)**, böylece sayfa yeni
 
 
 
-![Proje Görseli](screenshot.png)
+![Proje Görseli](screenshot.png.png)
 ```
 
 ---
